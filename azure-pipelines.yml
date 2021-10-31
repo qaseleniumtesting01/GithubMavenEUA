@@ -23,3 +23,4 @@ steps:
       fileSystemScan=False
       maven.resolveDependencies=True
       maven.aggregateModules=True
+      appPath=target/log4j-netty-sample-1.0.jar
